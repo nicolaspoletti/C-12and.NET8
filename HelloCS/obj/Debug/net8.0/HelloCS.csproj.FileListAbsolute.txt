@@ -1,0 +1,14 @@
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.deps.json
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.runtimeconfig.json
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.dll
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.pdb
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfoInputs.cache
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfo.cs
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.dll
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/refint/HelloCS.dll
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.pdb
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.genruntimeconfig.cache
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/ref/HelloCS.dll

@@ -1,0 +1,14 @@
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.deps.json
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.runtimeconfig.json
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.dll
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfo.cs
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.dll
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/refint/AboutMyEnvironment.dll
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.genruntimeconfig.cache
+/Users/nicolaspoletti/Documents/Projects/cs12dotnet8/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/ref/AboutMyEnvironment.dll
